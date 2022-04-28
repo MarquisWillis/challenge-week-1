@@ -8,3 +8,5 @@ This project was geared towards using semantic HTML to ease the readibility of t
 - Grouping style selectors in the CSS sheet trimed 50 lines of code, and is also much easier to interpret
 - Reordering the CSS sheet made it much easier to follow the styling patterns 
 - Having a descriptive title is much needed, albeit a seemingly small detail
+
+![alt text](https://github.com/MarquisWillis/challenge-week-1_Horiseon-homepage/blob/main/02-Challenge/Assets/01-html-css-git-homework-demo.png?raw=true)
