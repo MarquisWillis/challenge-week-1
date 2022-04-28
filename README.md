@@ -6,3 +6,5 @@ This project was geared towards using semantic HTML to ease the readibility of t
 
 - Using semantics greatly increased the assessibility and ease of reading to reviewers 
 - Grouping style selectors in the CSS sheet trimed 50 lines of code, and is also much easier to interpret
+- Reordering the CSS sheet made it much easier to follow the styling patterns 
+- Having a descriptive title is much needed, albeit a seemingly small detail
